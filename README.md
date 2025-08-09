@@ -32,5 +32,6 @@
 ---
 
 ## 📫 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
-[![Email](https://img.shields.io/badge/Email-Esteban_Soraire-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/TU-USUARIO](https://www.linkedin.com/in/esteban-soraire-7119b5b8/))
+[![Email](https://img.shields.io/badge/Email-Esteban_Soraire-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estesor2000@gmail.com
+)
